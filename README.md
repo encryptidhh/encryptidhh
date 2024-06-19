@@ -1,9 +1,19 @@
 ## 👋 About Me
-![Picture of myself as a graduation marshal for FT's class of '24](C:\Users\Admin\Desktop\GitHub readme picture.png)
-Hi there! My name is Hanniel Holness. I'm a Forsyth Tech student studying cybersecurity and based near Winston-Salem, NC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+![Picture of myself as a graduation marshal for FT's class of '24](https://github.com/encryptidhh/encryptidhh/blob/d033976abbd6ab2f10d947f489ccfaf143b4dd45/GitHub%20readme%20picture.png)
+
+Hi there! My name is Hanniel Holness. I'm a Forsyth Tech student who's self-studying cybersecurity, based near Winston-Salem, NC. This is my GitHub, which I'm mainly using to work on cybersecurity-related code projects and work and build projects that link to other IT paths, like web development, and software development tooling. 
+I am to to code to create people-focused cybersecurity solutions. You might find me working on what I call my "**Personal Cybersecurity Suite**" which focuses on relatively low-tech cybersecurity mitigations for typical devices which will include:
+- 🦾 A password strength checker that grades how strong passwords are, and estimates how long they'd take to crack
+- 🗄️A password manager to store secure passwords
+- 👣 A digital footprint tracker to remove data that hackers could use for initial reconnaissance
+- 🎣 An anti-phishing email filter that flags suspicious links and attachments in emails.
+- 🎮 A gamified phishing email quiz
+- 🚫 A browser extension that detects and blocks suspicious websites (& scripts).
+
+### 🔧 What I'm Doing
+I'm currently working through a set of cybersecurity-related code projects to beef up my resume, after that, I'll delve into the Personal Cybersecurity Suite.
+
+### 📫 How to Reach Me
+Send me an email! Work-related emails go to hanniel.holness@gmail.com. Alternatively, you can just message me on my [Instagram](https://www.instagram.com/mrneilholness/) or [LinkedIn](https://www.linkedin.com/in/hanniel-holness/).
+Looking forward to connect and collab!
