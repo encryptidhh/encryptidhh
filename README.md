@@ -1,5 +1,4 @@
 ## 👋 About Me
-
 ![Picture of myself as a graduation marshal for FT's class of '24](C:\Users\Admin\Desktop\GitHub readme picture.png)
 Hi there! My name is Hanniel Holness. I'm a Forsyth Tech student studying cybersecurity and based near Winston-Salem, NC
 - 👀 I’m interested in ...
@@ -8,8 +7,3 @@ Hi there! My name is Hanniel Holness. I'm a Forsyth Tech student studying cybers
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-encryptidhh/encryptidhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
