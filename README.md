@@ -12,7 +12,7 @@ I am to to code to create people-focused cybersecurity solutions. You might find
 - 🚫 A browser extension that detects and blocks suspicious websites (& scripts).
 
 ### 🔧 What I'm Doing
-I'm currently working through a set of cybersecurity-related code projects to beef up my resume, after that, I'll delve into the Personal Cybersecurity Suite.
+I'm making a quick repo for IT helpdesk - I call it "Personal PBQs." (it's just a set of HTML forms that look like A+ PBQs).
 
 ### 📫 How to Reach Me
 Send me an email! Work-related emails go to hanniel.holness@gmail.com. Alternatively, you can just message me on my [Instagram](https://www.instagram.com/mrneilholness/) or [LinkedIn](https://www.linkedin.com/in/hanniel-holness/).
