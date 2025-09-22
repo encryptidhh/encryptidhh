@@ -6,7 +6,7 @@ Hi there! My name is Hanniel (pronounced *Han*-yel) Holness. I'm a UNC Charlotte
 
 
 ### 🔧 What I'm Doing
-Expanding a portfolio of 20+ cybersecurity projects - [link here!](./cybersec-master-list)
+Expanding a portfolio of 20+ cybersecurity projects - [link here!](https://github.com/encryptidhh/cybersec-master-list/tree/main)
 
 ### 📫 How to Reach Me
 Send me an email! Work-related emails go to hanniel.holness@gmail.com. Alternatively, you can just message me on my [Instagram](https://www.instagram.com/mrneilholness/) or [LinkedIn](https://www.linkedin.com/in/hanniel-holness/).
