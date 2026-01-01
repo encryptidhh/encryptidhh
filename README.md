@@ -6,7 +6,6 @@ Hi there! My name is Hanniel (pronounced *Han*-yel) Holness. I'm a student at UN
 
 
 ### 🔧 What I'm Doing
-- Studying for CompTIA Network+ (that won't be covered here, unfortunately)
 - A set of malware analysis reports that cover string selection, basic static analysis, basic dynamic analysis, and reverse engineering.
 
 ### 📫 How to Reach Me
